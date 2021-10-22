@@ -2,3 +2,4 @@ Working on Commit and Pushing
 Changes made to understand .git
 Modified in Master Branch
 Merging the two branches and see the process how it works......
+I am doing some changes in main branch
